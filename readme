@@ -1,0 +1,56 @@
+# A 3months Django Tutorial Roadmap
+
+Django is a free and open-source, python framework for web development.
+It follows the model, template, views architectural pattern.
+
+An independent organization called Django Software Foundation maintains the framework.
+
+
+## Roadmap
+First Week: 
+    - Getting Started With Django
+
+Second Week:
+    - Web Fundamentals (HTML, CSS, and Javascript)
+    - CSS Framework (Bootstrap)
+
+Third Week: Django Fundamentals
+    - Django Project Setup
+    - Setup Environment
+    - Intro. Packages
+
+Fourth Week: Database & Models (CRUD concepts)
+    - Database Concepts (Relational Database, SQL, Database Design)
+    - Django Models
+    - Model Relationship (OneToOne, ForeignKey, ManyToOne)
+
+Fifth Week: Views & Templates
+    - Views (Function-based and Class-based views)
+    - Templates: Create and use templates
+    - Template Language (Jinja Tags)
+
+Sixth Week: Forms & User Authentication
+    - Handle Forms in Django (django-crispy-forms)
+    - User Authentication: Implement User authentication and registration
+
+Seventh Week: Static Files & Media Handling
+    - Static Files ( CSS, JavaScript, & images )
+    - Media Handling: (Uploading and displaying Media Files e.g Images, Audios and pdfs)
+
+Eighth Week: Django Admin & Security Management
+    - Admin Customization
+
+Ninth Week: API Concepts
+    - REST API
+    - Django REST Framework
+
+Tenth Week: Django Testing
+    - Test-Driven Development (TDD)
+    - Testing
+
+Eleventh Week: Deployment & Scaling
+    - Django Project Structure
+    - Deployment Servers
+
+Twelfth Week: Final Project & Review
+    - Todo Application Development and Deployment
